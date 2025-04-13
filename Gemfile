@@ -37,4 +37,3 @@ gem 'base64'
 gem 'bigdecimal'
 gem 'rexml'
 gem 'webrick', '~> 1.7'
-ruby "3.1.0"
